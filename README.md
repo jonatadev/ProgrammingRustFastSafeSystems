@@ -1,5 +1,7 @@
 **Programming Rust: Fast, Safe Systems Development**
 
+https://www.rust-lang.org/
+
 https://github.com/google/comprehensive-rust
 
 https://rust-unofficial.github.io/patterns/idioms/
